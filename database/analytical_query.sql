@@ -21,12 +21,9 @@ SELECT
     pc.model,
     pc.count_product,
     bc.count_bid
-FROM
-    product_counts pc
-JOIN
-    bid_counts bc ON pc.model = bc.model
-ORDER BY
-    pc.count_product DESC;
+FROM product_counts pc
+JOIN bid_counts bc USING (model)
+ORDER BY pc.count_product DESC;
 
 -- Compare the car's price with average price per city
 SELECT 
