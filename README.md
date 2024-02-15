@@ -33,7 +33,7 @@ I used PostgreSQL 16 and pgAdmin4 8.3.
 * Step 5.
   Import the CSV files into each table as its name. If you want to create another dummy data, I have provided Python code to generate those dummy data for each table (dummy_data/Dummy_data_Final_Project_SQL.ipynb) and then import it to the tables.
 * Step 6.
-  Now you are free to make queries with `car-sales.db`.
+  Now you are free to make queries with `carsales-db`.
 
 ## Query Samples.
 ### 1. Find the most affordable car by searching for "Alya" as the keyword.
