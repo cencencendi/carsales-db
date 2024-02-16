@@ -13,7 +13,7 @@ This repository is a final project of Pacmann's SQL & Relational Database online
 
 ## Entity Relationship Diagram (ERD).
 I proposed a relational database consisting of multiple tables (sellers, buyers, cities, products, product_onsales, and bids) as the optimal solution to meet the required features. The tables' Entity Relationship Diagram (ERD) can be seen below.
-![ERD](https://github.com/cencencendi/carsales-db/assets/85205431/e7e4f112-222f-4f9a-9619-a6356ae81d28)
+<img width="1215" alt="ERD" src="https://github.com/cencencendi/carsales-db/assets/85205431/9fb1cff2-466b-4862-b7a0-088b8dd67591">
 
 
 ## DBMS.
