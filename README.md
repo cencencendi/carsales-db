@@ -35,7 +35,7 @@ I used PostgreSQL 16 and pgAdmin4 8.3.
 * Step 6.
   Now you are free to make queries with `carsales-db`.
 
-## Query Samples.
+## Query Examples.
 ### 1. Find the most affordable car by searching for "Alya" as the keyword.
 ```
 SELECT 
