@@ -12,8 +12,8 @@ WHERE year >= 2015
 ORDER BY 3,4;
 
 -- Add 1 bid for a product
--- INSERT INTO bids(bid_id, sales_id, buyer_id, date_bid, bid_price)
--- VALUES(216, 46, 75, '2023-03-01', 119100000);
+INSERT INTO bids(bid_id, sales_id, buyer_id, date_bid, bid_price)
+VALUES(216, 46, 75, '2023-03-01', 119100000);
 
 SELECT * FROM bids;
 
