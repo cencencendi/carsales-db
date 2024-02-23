@@ -11,6 +11,8 @@ This repository is a final project of Pacmann's SQL & Relational Database online
   7. If the buyer is interested in purchasing a car, they can bid on the price if the seller allows it.
   8. Purchase transaction is done outside the application, so it is not in the project's scope.
 
+For a detailed explanation of the steps involved in designing and creating this relational database, please refer to the documentation [here](https://cendikiaishmatuka.medium.com/designing-and-creating-a-relational-database-for-car-sales-974c7c8a17b3).
+
 ## Entity Relationship Diagram (ERD).
 I proposed a relational database consisting of multiple tables (sellers, buyers, cities, products, product_onsales, and bids) as the optimal solution to meet the required features. The tables' Entity Relationship Diagram (ERD) can be seen below.
 <img width="1215" alt="ERD" src="https://github.com/cencencendi/carsales-db/assets/85205431/9fb1cff2-466b-4862-b7a0-088b8dd67591">
